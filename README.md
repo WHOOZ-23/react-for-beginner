@@ -1,2 +1,2 @@
-# react-for-beginner
+# react-for-beginners
 for study
